@@ -4,6 +4,8 @@
 
 http://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
 
+http://www.exiv2.org/
+
 ### JPEG header
 
 ```
@@ -45,3 +47,8 @@ The tags begins at 0x16.
 
 Next 2,598 bytes (0xa26) are payload.
 Next IFD begins at 0x0aac (0x86 + 0x0a26).
+
+
+## JFIF
+
+https://www.w3.org/Graphics/JPEG/jfif3.pdf
