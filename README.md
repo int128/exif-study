@@ -1,10 +1,10 @@
-# EXIF
+# Exif study
 
-```sh
-hexdump photo.jpg
-```
+## Exif
 
-## Header
+http://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
+
+### JPEG header
 
 ```
 0000000 ff d8 ff e1 3c 14 45 78 69 66 00 00 49 49 2a 00
